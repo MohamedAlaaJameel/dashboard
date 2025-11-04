@@ -1,5 +1,4 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+# VS Code
+- npm install
+- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+- npm run dev
